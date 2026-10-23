@@ -54,7 +54,7 @@
 
 - 👥 **[Customer Churn Analysis](https://github.com/Harish-318/PowerBI-Customer_Churn_Analysis.git)** — Dashboard analyzing churn patterns and customer insights. `Power BI`
 
-- 🏦 **[Retail Banking Transaction Analysis]** — SQL analysis of banking transactions and customer behavior. `SQL • MySQL`
+- 🏦 **[Retail Banking Transaction Analysis](https://github.com/Harishp-03/SQL_Retail_Banking_Analysis.git)** — SQL-based retail banking analysis covering customer segmentation, account activity, transaction patterns, loan repayment, and card usage. *MySQL • SQL • Data Analysis*
 
 - 🏢 **[AmbitionBox Web Scraping]** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
 
@@ -66,16 +66,18 @@
 
 - 🐍 Python Programming
 - 🔍 Exploratory Data Analysis (EDA)
-- 📊 Power BI Workshop
+- 📊 Power BI
+- 🗄️ Data Analysis with MySQL
 - 💼 Deloitte Job Simulation
+
 
   
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-318&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-318&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish-03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-03&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
