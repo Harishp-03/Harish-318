@@ -56,7 +56,7 @@
 
 - 🏦 **[Retail Banking Transaction Analysis](https://github.com/Harishp-03/SQL_Retail_Banking_Analysis.git)** — SQL-based retail banking analysis covering customer segmentation, account activity, transaction patterns, loan repayment, and card usage. *MySQL • SQL • Data Analysis*
 
-- 🏢 **[AmbitionBox Web Scraping]** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
+- 🏢 **[AmbitionBox Web Scraping](https://github.com/Harishp-03/AmbitionBox_Web_Scraping.git)** — Web scraping and preparation of company data for analysis. `Python • BeautifulSoup • Pandas`
 
 - ✅ **[Task Management System](https://github.com/Harish-318/Task-Management-System.git)** — Console-based task management application. `Python`
 
